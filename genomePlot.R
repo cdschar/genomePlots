@@ -1,11 +1,11 @@
-#genome plots script
+#genomePlots driver script
 
 #set working directory
-home.dir = "/path/to/current/directory";
+home.dir = "~/genomePlot/";
 setwd(home.dir);
 
 #load source file
-lib.file = "/Volumes/GRAID/seqTools/R.Libraries/genomePlot/Plot.region.lib.R";
+lib.file = "~/genomePlot/Plot.region.lib.R";
 source(lib.file);
 
 #set output format and directory
