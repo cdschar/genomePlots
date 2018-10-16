@@ -1,0 +1,3 @@
+name	plot	chr	start	end	plot.fwd	notes
+MHCII	TRUE	chr6	32550000	32615000	TRUE	na
+CIITA	TRUE	chr16	10923269	11066626	FALSE	na
