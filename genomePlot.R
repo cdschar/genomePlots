@@ -1,4 +1,4 @@
-#genomePlots driver script
+#genomePlot driver script
 
 #set working directory
 home.dir = "~/genomePlot/";
